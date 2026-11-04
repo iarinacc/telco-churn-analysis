@@ -13,9 +13,6 @@ where is_existing_customer = 1;
 
 -- churn rate (existing cutomers, without Joined) is 28.37%
 
--- tre sa calculez: total monthly charge of churned customers
--- % of total monthly revenue
-
 
 select
 sum(case when churn_value = 1 then monthly_charge else 0 end) as monthly_revenue_lost,
