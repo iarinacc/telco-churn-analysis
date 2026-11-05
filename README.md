@@ -138,12 +138,12 @@ The hypotheses were formulated in Excel, based on the pivot tables, and tested i
 
 ## Recommendations
 
-1. Using retention programs in the first months, focused on the first contact with support and the first bill, since 1 in 5 churned customers leaves in the first month
-2. Encourage longer contracts for month-to-month customers
-3. Promote premium tech support and online security to internet customers
-4. Investigate competitors' offers for fiber optic customers (devices, speeds, offers)
-5. Follow up as soon as possible with the 365 new customers who qualify for the high-risk profile
-6. Investigate the situation in San Diego, where almost two thirds of customers left
+1. Using retention programs in the first months, focused on the first contact with support and the first bill, since 1 in 5 churned customers leaves in the first month. 
+2. Encourage longer contracts for month-to-month customers. Research on telecom customers shows that contracts with a minimum duration help companies retain customers (Becker, Spann & Schulze, 2014), and that shortening the commitment period increases churn (Yang, de Matos & Ferreira, 2020).
+3. Promote premium tech support and online security to internet customers. The data shows that churn decreases with every additional service, which is consistent with research that shows telecom services which come in bundles actively reduces churn (Prince & Greenstein, 2013).
+4. Investigate competitors' offers for fiber optic customers (devices, speeds, offers).
+5. Follow up as soon as possible with the 365 new customers who qualify for the high-risk profile. Although, since research shows that the customers with the highest risk are not always the ones who respond the best to retention campaigns (Ascarza, 2018), the campaign should be first tested on a smaller group.
+6. Investigate the situation in San Diego, where almost two thirds of customers left.
 
 
 ---
@@ -159,7 +159,15 @@ The hypotheses were formulated in Excel, based on the pivot tables, and tested i
 
 - a logistic regression, in order to measure the effect of each factor while controlling for the others (for example, to confirm that Offer E's high churn is mostly explained by tenure)
 - measuring customer satisfaction regularly, so it can become a usable risk indicator
-- testing the recommendations with a control group
+- testing the recommendations with a pilot campaign by comparing a group that receives the offer with a control group
+
+## References
+
+- Ascarza, E. (2018). Retention futility: Targeting high-risk customers might be ineffective. Journal of Marketing Research, 55(1), 80-98.
+- Becker, J., Spann, M., & Schulze, T. (2014). Implications of minimum contract durations on customer retention. Marketing Letters, 26. https://doi.org/10.1007/s11002-014-9293-2
+- Prince, J., & Greenstein, S. (2013). Does service bundling reduce churn? Journal of Economics & Management Strategy, 23. https://doi.org/10.2139/ssrn.1966221
+- Yang, B., de Matos, M. G., & Ferreira, P. (2020). The effect of shortening lock-in periods in telecommunication services. MIS Quarterly, 44(3), 1391-1409. https://doi.org/10.25300/MISQ/2020/14839
+
 
 
 
